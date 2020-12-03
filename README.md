@@ -16,5 +16,5 @@ Steps involved
 5.Then divied the dateset in train and test split with 30%test size.
 6.Applied the algorithms
 7.Tried to find the best result by doing tuning of parameter for example In knn we find best value n_neighbour
-8.After apply the algorithms we applied different metrics like mean absolute error etc.
+8.After apply the algorithms we applied different evaluation metrics like mean absolute error etc.
 9.finded the best algorithms.
